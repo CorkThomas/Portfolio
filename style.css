@@ -1,0 +1,45 @@
+* {
+	padding:2px;
+}
+
+.navicon{
+
+	height:auto;
+	width:auto;
+	max-height:200px; 
+	max-width:168.67px;
+	margin:auto;
+
+	display:block;
+
+
+}
+
+.navbar div{ 
+
+
+
+
+}
+
+@font-face{
+	font-family:sfpro;
+	src:url(fonts/SF-Pro-Display-Medium.otf);;
+}
+
+h1 {
+	font-family:sfpro;
+	font-size:36px;
+	margin-top:10px;
+	margin-bottom:5px;
+
+}
+
+h2{
+	font-family:sfpro;
+	font-size:26px;
+	color:#4A4A4A;
+	margin-top:5px;
+	margin-bottom:5px;
+	margin-left:2px;
+}
