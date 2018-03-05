@@ -3,10 +3,14 @@
 	font-family:sfpro;
 	src:url(fonts/SF-Pro-Display-Medium.otf);
 
-	font-family:lobster;
-	src:url(fonts/Lobster_1.3.otf);
-
 }
+
+@font-face{
+font-family:lobster;
+	src:url(fonts/Lobster_1.3.otf);
+	
+}
+
 
 h1 {
 	font-family:sfpro;
