@@ -1,4 +1,11 @@
 
+.profilepic{
+
+	height:100%;
+	width:100%;
+
+}
+
 @font-face{
 	font-family:sfpro;
 	src:url(fonts/SF-Pro-Display-Medium.otf);
