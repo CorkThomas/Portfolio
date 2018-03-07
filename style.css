@@ -1,15 +1,15 @@
 
 .jumbotron{
 
-background-color:#337ab7;
-color:#ffffff;
+background-color:#337ab7 !important;
+color:#ffffff !important;
 
 }
 
 .profilepic{
 
-	max-height: 100%;
-	max-width:100%;
+	max-height:100% !important;
+	max-width:100% !important;
 
 }
 
