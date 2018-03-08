@@ -1,15 +1,15 @@
 
 .jumbotron{
 
-background-color:#337ab7 !important;
-color:#ffffff !important;
+background-color:#337AB7;
+color:#ffffff;
 
 }
 
 .profilepic{
 
-	max-height:100% !important;
-	max-width:100% !important;
+	max-height:100%;
+	max-width:100%;
 
 }
 
@@ -17,10 +17,7 @@ color:#ffffff !important;
 	font-family:sfpro;
 	src:url(fonts/SF-Pro-Display-Medium.otf);
 
-}
-
-@font-face{
-font-family:lobster;
+	font-family:lobster;
 	src:url(fonts/Lobster_1.3.otf);
 	
 }
