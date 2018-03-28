@@ -1,21 +1,44 @@
 
-.jumbotron{
+.navbar{
+
+	background-color:black;
+
+}
+
+.jumbotron {
 
 background-color:#337AB7;
 color:#ffffff;
 
 }
 
-.profilepic{
+.profilepic {
 
 	max-height:100%;
 	max-width:100%;
 
 }
 
-@font-face{
+.banner {
+
+	max-width:100%;
+
+}
+
+.navbar {
+
+
+}
+
+.content-image{
+
+	max max-width:100%;
+
+}
+
+@font-face {
 	font-family:sfpro;
-	src:url(fonts/SF-Pro-Display-Medium.otf);
+	src:url(fonts/SF-Pro-Display-Regular.otf);
 
 	font-family:lobster;
 	src:url(fonts/Lobster_1.3.otf);
@@ -42,4 +65,16 @@ h3{
 h4{
 	font-family:sfpro;
 	
+}
+
+h6{
+
+	font-size:12px;
+	font-color:;
+
+}
+
+p{
+
+
 }
